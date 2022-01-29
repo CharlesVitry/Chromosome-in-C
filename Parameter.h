@@ -1,0 +1,6 @@
+#pragma once
+
+#define TAILLE_POPULATION 5000
+#define TAUX_ELITISME 0.1
+#define NB_ITERATION 250
+#define TAUX_MUTATION 0.30
